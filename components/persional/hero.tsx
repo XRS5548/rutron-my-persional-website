@@ -191,7 +191,7 @@ export default function HeroRutron() {
               <Link href="/projects">
                 <Button size="lg">See Projects</Button>
               </Link>
-              <Link href="/contact">
+              <Link href="/hireme">
                 <Button size="lg" variant="outline">
                   Hire me
                 </Button>
