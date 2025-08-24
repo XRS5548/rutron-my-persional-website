@@ -4,6 +4,7 @@ import "./globals.css";
 import { ThemeProvider } from "@/components/theme-provider";
 import Navbar from "@/components/persional/navbar";
 import Footer from "@/components/persional/footer";
+import NextTopLoader from "nextjs-toploader";
 
 const geistSans = Geist({
   variable: "--font-geist-sans",
@@ -29,6 +30,7 @@ export default function RootLayout({
     <html lang="en" suppressHydrationWarning>
         <head />
         <body>
+            <NextTopLoader color="white" />
           <ThemeProvider
             attribute="class"
             defaultTheme="system"

@@ -1,0 +1,46 @@
+[
+    {
+        "_id": "68a89db623fe049edd0e8e9a",
+        "title": "Testing Blog hai ye",
+        "description": "yaha kuch hai per dekhne ke liye nhi hai",
+        "tags": [
+            "haha",
+            "huhu",
+            "hihi"
+        ],
+        "content": "## haa ji to kese hai aap\r\n\r\n \r\n\r\nummid hai ache hai chalo ek photo dikhata hu \r\n \r\n\r\n![](https://res.cloudinary.com/dbyb9nehk/image/upload/v1755880848/b1xrm6ds8xs58uycq7j4.png)\r\n\r\nbas aaj ke liye itna hi",
+        "imageUrl": "https://res.cloudinary.com/dbyb9nehk/image/upload/v1755880882/iphez75ixyziuuvrh3du.jpg",
+        "uploadDate": "2025-08-22T16:41:26.079Z"
+    },
+    {
+        "_id": "68a8a04023fe049edd0e8e9b",
+        "title": "Ram raj bhaiyo ye bhi faltu hai ",
+        "description": "chat per nhi milega",
+        "tags": [
+            "haha",
+            "huhu",
+            "hjihi"
+        ],
+        "content": "<h2>hahahahahhaha&nbsp;</h2><p>&nbsp;</p><p>&nbsp;</p><figure class=\"image\"><img style=\"aspect-ratio:1500/1500;\" src=\"https://res.cloudinary.com/dbyb9nehk/image/upload/v1755881506/ityj7cntl8pzoxjjqllp.jpg\" width=\"1500\" height=\"1500\"></figure><p>ye mat le lena galti se bhi&nbsp;</p>",
+        "imageUrl": "https://res.cloudinary.com/dbyb9nehk/image/upload/v1755881533/quya056tux9yllxyjpwp.jpg",
+        "uploadDate": "2025-08-22T16:52:16.849Z"
+    },
+    {
+        "_id": "68ab3d6a1c2f6bc763339642",
+        "title": "🚀 Python Programming: शुरुआत से Expert बनने तक का सफ़र",
+        "description": "Python एक high-level, interpreted और general-purpose programming language है। इसे Guido van Rossum ने 1991 में बनाया था। Python अपनी simple syntax और readability की वजह से आज की सबसे लोकप्रिय भाषाओं में से एक है।\r\n\r\n👉 आज Python का इस्तेमाल Web Development, Machine Learning, Artificial Intelligence, Data Science, Automation, Cyber Security, Game Development और बहुत सारे क्षेत्रों में हो रहा है।",
+        "tags": [
+            "Python एक high-level",
+            "interpreted और general-purpose programming language है। इसे Guido van Rossum ने 1991 में बनाया था। Python अपनी simple syntax और readability की वजह से आज की सबसे लोकप्रिय भाषाओं में से एक है।  👉 आज Python का इस्तेमाल Web Development",
+            "Machine Learning",
+            "Artificial Intelligence",
+            "Data Science",
+            "Automation",
+            "Cyber Security",
+            "Game Development और बहुत सारे क्षेत्रों में हो रहा है।"
+        ],
+        "content": "<p>📌 Python क्या है?</p><p>Python एक high-level, interpreted और general-purpose programming language है। इसे <strong>Guido van Rossum</strong> ने 1991 में बनाया था। Python अपनी simple syntax और readability की वजह से आज की सबसे लोकप्रिय भाषाओं में से एक है।</p><p>👉 आज Python का इस्तेमाल <strong>Web Development, Machine Learning, Artificial Intelligence, Data Science, Automation, Cyber Security, Game Development</strong> और बहुत सारे क्षेत्रों में हो रहा है।</p><h2>🎯 Python की खासियतें (Features of Python)</h2><ol><li data-list-item-id=\"ee55893d8b59c05ad4b5794f85b5bb9b4\"><strong>Simple Syntax</strong> – English जैसी आसान भाषा।</li><li data-list-item-id=\"e2ea24564d2ccb273d2c5da1c4ea3e0f2\"><strong>Open Source</strong> – Free में available है।</li><li data-list-item-id=\"ed74557d67a9be3feffd2aa93589c22da\"><strong>Cross-Platform</strong> – Windows, Linux, Mac हर जगह चलता है।</li><li data-list-item-id=\"e1ea10bc1b2493814111b0b852e348435\"><strong>Huge Libraries</strong> – NumPy, Pandas, Django, Flask जैसी ready-made libraries।</li><li data-list-item-id=\"ed0a84e4402bc08173b177ec67083c42f\"><strong>Community Support</strong> – लाखों developers active हैं।</li></ol><h2>🔥 Python क्यों सीखें?</h2><ul><li data-list-item-id=\"ec3aa1044ced48a35043c1e71d2f26fa5\"><strong>Job Opportunities</strong> – Python developers की demand बहुत ज्यादा है।</li><li data-list-item-id=\"ea70aad226986eefe3c1b32e4b3ea1d30\"><strong>High Salary</strong> – Data Science और AI में Python वालों की salaries top पर हैं।</li><li data-list-item-id=\"ec92a4edd5651b9def6b200960b3e214c\"><strong>Versatility</strong> – Web apps से लेकर AI तक हर जगह use होता है।</li><li data-list-item-id=\"e33a3e183e92f8dcc1f7f717efe708959\"><strong>Beginner-Friendly</strong> – New coders के लिए perfect language।</li></ul><h2>⚡ Python Install कैसे करें?</h2><ol><li data-list-item-id=\"e825359ad371c2c8e03aef36cac4d0385\"><a href=\"https://www.python.org/downloads/\">Python.org</a> से download करो।</li><li data-list-item-id=\"eeef929bf5c35ea69343460d53eda6098\">Install करते समय <strong>Add to PATH</strong> option जरूर select करो।</li><li data-list-item-id=\"e0e5c6871d798a5cca1dee7d74ae5e893\"><p>अब terminal/cmd में check करो:</p><p>&nbsp;</p></li></ol><p>python --version</p><h2>📝 Python Example Code</h2><p>👉 Hello World Program:</p><p>&nbsp;</p><blockquote><pre><code class=\"language-python\">print(\"Hello, World!\")\r\n</code></pre><p>👉 Simple Calculator:</p></blockquote><p>&nbsp;</p><pre><code class=\"language-python\">a = int(input(\"पहला नंबर डालें: \"))\r\nb = int(input(\"दूसरा नंबर डालें: \"))\r\nprint(\"जोड़ =\", a+b) \r\nprint(\"घटाना =\", a-b) \r\nprint(\"गुणा =\", a*b) \r\nprint(\"भाग =\", a/b)</code></pre><h2>🔧 Python कहाँ Use होता है?</h2><ul><li data-list-item-id=\"e6317cd3c41252749b78231243713bff4\">🌐 <strong>Web Development</strong> → Django, Flask</li><li data-list-item-id=\"e6a42466673b84a0fd54c18625796f383\">🤖 <strong>AI &amp; Machine Learning</strong> → TensorFlow, PyTorch</li><li data-list-item-id=\"e1006c3c313e77c6c8356efa953410aba\">📊 <strong>Data Science</strong> → Pandas, NumPy, Matplotlib</li><li data-list-item-id=\"e17cab19bf73f9f0dd164a1d42dbdefc7\">🕹 <strong>Game Development</strong> → Pygame</li><li data-list-item-id=\"eaaefbaf2d3fbe98b2f194660b51f6d99\">🛠 <strong>Automation</strong> → Selenium, BeautifulSoup</li><li data-list-item-id=\"e5800b57a0a4a5890449011e623521822\">🔒 <strong>Cyber Security</strong> → Scapy, Nmap</li></ul><h2>🎓 Python सीखने के Resources</h2><ul><li data-list-item-id=\"e04816648ec89544b33ae5a540ef141fd\">Python Documentation</li><li data-list-item-id=\"e1485dc2800382abd5fa4568522036d18\">W3Schools Python</li><li data-list-item-id=\"e62bf219d850301c7e5f15475d02e9b54\"><a href=\"https://www.youtube.com/watch?v=rfscVS0vtbw\">FreeCodeCamp Python Tutorial</a></li></ul><h2>✅ Conclusion</h2><p>Python आज के समय की सबसे powerful और demanding programming language है। अगर आप coding career शुरू करना चाहते हैं, तो Python सीखना आपके लिए सबसे अच्छा option हो सकता है।</p><p>👉 Start small, practice daily और धीरे-धीरे आप भी Python Expert बन सकते हो।</p>",
+        "imageUrl": "https://res.cloudinary.com/dbyb9nehk/image/upload/v1756052836/db9hxagrcq0jugjbdm9p.png",
+        "uploadDate": "2025-08-24T16:27:22.809Z"
+    }
+]
