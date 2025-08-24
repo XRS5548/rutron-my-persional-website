@@ -1,8 +1,10 @@
-import { NextResponse } from "next/server";
 import { MongoClient } from "mongodb";
+import { NextResponse } from "next/server";
 
 export async function GET(req: Request) {
-  const { searchParams } = new URL(req.url);
+  // Always give base URL, because req.url might be relative in Next.js
+  const { searchParams } = new URL(req.url, process.env.NEXT_PUBLIC_BASE_URL || "http://localhost:3000");
+
   const page = parseInt(searchParams.get("page") || "1", 10);
   const limit = 100; // fixed limit
 
